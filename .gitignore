@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Models (optional to ignore, but good for git)
+# model/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flask
+instance/
+.webassets-cache
